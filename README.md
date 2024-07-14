@@ -135,13 +135,13 @@ var menu = """
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/EliAbdiel/Conversor-de-Moneda-Challenge-ONE-Java-Back-end.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Conversor-de-Moneda-Challenge-ONE-Java-Back-end
 ```
 
 
